@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  lodash.uniqueid: ^4.0.1
+
+dependencies:
+  lodash.uniqueid: registry.npmmirror.com/lodash.uniqueid/4.0.1
+
+packages:
+
+  registry.npmmirror.com/lodash.uniqueid/4.0.1:
+    resolution: {integrity: sha512-GQQWaIeGlL6DIIr06kj1j6sSmBxyNMwI8kaX9aKpHR/XsMTiaXDVPNPAkiboOTK9OJpTJF/dXT3xYoFQnj386Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/lodash.uniqueid/-/lodash.uniqueid-4.0.1.tgz}
+    name: lodash.uniqueid
+    version: 4.0.1
+    dev: false

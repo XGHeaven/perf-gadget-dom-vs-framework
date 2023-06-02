@@ -1,0 +1,5 @@
+dist
+node_modules
+gadget/assets
+gadget/pages/index/todo.js
+gadget/pages/index/style.css

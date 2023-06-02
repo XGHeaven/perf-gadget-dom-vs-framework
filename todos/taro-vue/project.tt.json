@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-vue",
+  "appid": "cli_9f1c000ce9abd00c",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
